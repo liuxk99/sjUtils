@@ -16,6 +16,10 @@ public class SjLog {
         mMsg = msg;
     }
 
+    public String getMsg() {
+        return mMsg;
+    }
+
     private String inStr() {
         if (mMsg != null)
             return PREFIX_IN + mMsg;
