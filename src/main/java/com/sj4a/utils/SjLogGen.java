@@ -1,4 +1,4 @@
-package com.sj.utils;
+package com.sj4a.utils;
 
 public class SjLogGen {
     private final String mTag;
